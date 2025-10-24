@@ -1,0 +1,21 @@
+id,name,brand,category,per_100g_calories,protein_g,fat_g,carbs_g,fiber_g,sugar_g,sodium_mg
+1,Boiled Egg,,protein,155,13,11,1.1,0,1.1,124
+2,Brown Rice (cooked),,grain,123,2.7,1,25.6,1.8,0.4,4
+3,Chicken Breast (grilled),,protein,165,31,3.6,0,0,0,74
+4,Apple,,fruit,52,0.3,0.2,14,2.4,10.4,1
+5,Banana,,fruit,89,1.1,0.3,23,2.6,12.2,1
+6,Whole Wheat Bread,Generic,bakery,247,13,4.2,41,7,6,400
+7,Milk (2%),,dairy,50,3.4,2,5,0,5,44
+8,Greek Yogurt (plain),,dairy,59,10,0.4,3.6,0,3.6,36
+9,Olive Oil,,fat,884,0,100,0,0,0,2
+10,Almonds,,nuts,579,21,50,22,12.5,4.4,1
+11,Paneer (cow milk),,dairy,296,18,23,4,0,4,22
+12,Dal (cooked lentils),,legume,116,9,0.4,20,7.9,1.8,2
+13,Chapati (whole wheat),,bread,297,9.6,3.2,54,9.8,0.5,290
+14,Chicken Biryani,,prepared,163,7,5.4,22,1.1,1.4,390
+15,Idli,,prepared,146,5.5,0.4,31,2.3,0.9,65
+16,Dosa,,prepared,168,3.6,6.8,25,1,0.7,300
+17,Samosa,,snack,262,5.3,12.8,31,2.5,0.8,417
+18,Poha,,prepared,132,2.6,2.6,25,1,0.9,210
+19,Roti,,bread,297,9.6,3.2,54,9.8,0.5,290
+20,Rajma (cooked kidney beans),,legume,127,8.7,0.5,22.8,6.4,0.3,2
